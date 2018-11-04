@@ -1,0 +1,1 @@
+com/jagex/oldscape/ios/IOSMoeLauncher

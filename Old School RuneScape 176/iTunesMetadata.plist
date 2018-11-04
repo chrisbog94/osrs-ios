@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>arm64</key>
+		<true/>
+		<key>gamekit</key>
+		<true/>
+	</dict>
+	<key>apple-id</key>
+	<string>chrispy9658@gmail.com</string>
+	<key>artistId</key>
+	<integer>338544819</integer>
+	<key>artistName</key>
+	<string>Jagex Games Studio</string>
+	<key>asset-info</key>
+	<dict>
+		<key>file-size</key>
+		<integer>42536579</integer>
+		<key>flavor</key>
+		<string>10:purple</string>
+	</dict>
+	<key>bundleDisplayName</key>
+	<string>Old School RuneScape</string>
+	<key>bundleShortVersionString</key>
+	<string>176</string>
+	<key>bundleVersion</key>
+	<string>1760901</string>
+	<key>copyright</key>
+	<string>© Jagex Games Studio</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<true/>
+	<key>gameCenterEverEnabled</key>
+	<true/>
+	<key>genre</key>
+	<string>Games</string>
+	<key>genreId</key>
+	<integer>6014</integer>
+	<key>ipaInstallPath</key>
+	<string>/var/folders/5g/3h99d9g53nl02vx2kyxx82v40000gn/T/com.apple.configurator.xpc.InternetService/TemporaryItems/MobileApps/1269648762/A89D8628-8C9E-4720-AA17-2A36CBE0F8ED</string>
+	<key>is-purchased-redownload</key>
+	<true/>
+	<key>itemId</key>
+	<integer>1269648762</integer>
+	<key>itemName</key>
+	<string>Old School RuneScape</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>Jagex Games Studio</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<string></string>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Infrequent/Mild Horror/Fear Themes , Infrequent/Mild Mature/Suggestive Themes , Infrequent/Mild Profanity or Crude Humor , Frequent/Intense Cartoon or Fantasy Violence , Advisory.NO.UNRESTRICTED_WEB_ACCESS , Advisory.NO.GAMBLING_CONTESTS and Infrequent/Mild Alcohol, Tobacco, or Drug Use or References</string>
+		<key>label</key>
+		<string>12+</string>
+		<key>rank</key>
+		<integer>300</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2018-10-30T18:13:39Z</string>
+	<key>s</key>
+	<integer>143441</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a198.phobos.apple.com/us/r30/Purple128/v4/7b/0a/0f/7b0a0f8b-9c7c-8630-f86d-39008173076b/icon114x114.png</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>9</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.jagex.oldschool</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>828598672</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>823246075</integer>
+		<integer>828598672</integer>
+	</array>
+	<key>subgenres</key>
+	<array>
+		<dict>
+			<key>genre</key>
+			<string>Adventure</string>
+			<key>genreId</key>
+			<integer>7002</integer>
+		</dict>
+		<dict>
+			<key>genre</key>
+			<string>Role Playing</string>
+			<key>genreId</key>
+			<integer>7014</integer>
+		</dict>
+	</array>
+	<key>userName</key>
+	<string>chrispy9658@gmail.com</string>
+	<key>vendorId</key>
+	<integer>311318</integer>
+	<key>versionRestrictions</key>
+	<integer>0</integer>
+</dict>
+</plist>
